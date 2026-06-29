@@ -20,9 +20,15 @@
               "icon": "lucide-file",
               "title": "Добро пожаловать"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "82a97e5f258d7834",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5d7e93096899cc45",
+            "id": "f66281d23ec3c0f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,23 +39,6 @@
               },
               "icon": "lucide-file",
               "title": "Без названия"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "82a97e5f258d7834",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f66281d23ec3c0f6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
             }
           }
         ]
@@ -125,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -144,12 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -187,13 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура"
             }
           }
         ]
@@ -215,7 +201,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5d7e93096899cc45",
+  "active": "f66281d23ec3c0f6",
   "lastOpenFiles": [
     "Добро пожаловать.md",
     "Без названия.md"
