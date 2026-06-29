@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/larisa-7/LoLo.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
