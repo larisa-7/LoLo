@@ -4,52 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e032e846d3230ff",
+        "id": "053ea238ce51415f",
         "type": "tabs",
         "children": [
           {
-            "id": "c462ff262bbd7d2d",
+            "id": "178d4a9e174c1cc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Привет, Дарья!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
-            }
-          },
-          {
-            "id": "5d7e93096899cc45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "82a97e5f258d7834",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f66281d23ec3c0f6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Привет, Дарья!"
             }
           }
         ]
@@ -125,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Привет, Дарья!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Привет, Дарья!"
             }
           },
           {
@@ -144,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Привет, Дарья!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из Привет, Дарья!"
             }
           },
           {
@@ -187,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "Привет, Дарья!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Привет, Дарья!"
             }
           }
         ]
@@ -215,9 +184,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5d7e93096899cc45",
+  "active": "178d4a9e174c1cc5",
   "lastOpenFiles": [
-    "Добро пожаловать.md",
-    "Без названия.md"
+    "Привет, Дарья!.md",
+    "Добро пожаловать.md"
   ]
 }
